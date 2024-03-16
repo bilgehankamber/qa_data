@@ -1,8 +1,8 @@
-# intro
+# questions & data 
 
-A new Flutter project.
+Çoktan seçmeli sınav demosu / multichoice exam trying
 
-## Getting Started
+## second week project
 
 This project is a starting point for a Flutter application.
 
